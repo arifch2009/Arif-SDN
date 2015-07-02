@@ -1,1 +1,1 @@
-# Coursera-arif-SDN
+These folders contains files that have been implemented during the SDN MOOC course.  
