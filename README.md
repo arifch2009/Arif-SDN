@@ -1,1 +1,1 @@
-These folders contains files that have been implemented during the SDN MOOC course.  
+SDN assignment carried out during the course are uploaded in this repository.
